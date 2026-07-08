@@ -1,0 +1,10 @@
+.env
+*.env
+pswrd.txt
+uploads/
+junk/
+node_modules/
+.DS_Store
+*.zip
+Archive.zip
+vendor/
